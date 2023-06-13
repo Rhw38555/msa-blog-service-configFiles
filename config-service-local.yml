@@ -5,6 +5,4 @@ spring:
     
 encrypt:
   key-store:
-    location: file:apiEncryptionKey.jks
     password: '{cipher}AQC3S2po4wMoQbVJGLSTnUcbeotDnau0s/N5lk7MWxJDZPTL7AA/xPwA+fPEGyFl9kdngNBjANnacHjeLJzRsAGYXHTLrAb16992kZYprcPnTqjZBFQFAk6ImbXP58F6s8C1La5M3djbLl4+5Ujljd4fJ4yMGkFyocA/9hIzt13b0bjg5z02PTlg8olRZQmUKEIS0lEVMcC62MlE2qSI1mB1olJ9190tqg/4ST+FLTIt0kLEe5NjqcZAT0wlEH5RfzonIKIJvzD9jfpkCXe1Uhj4E7bh10x/XJIVfb1YlGAzwFzZbLpFN59zi8g8RB+rfV6QQv2tbZdq49uC7Cyq66RSEIi3YDoBAImk6GPZ6bEkmfO1Bq9r5hj7Fq8LIy0EUEM='
-    alias: apiEncryptionKey
