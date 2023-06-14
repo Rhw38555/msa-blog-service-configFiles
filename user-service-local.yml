@@ -3,9 +3,9 @@ spring:
     username: '{cipher}AQBAOK9ulQlUp6AtWP331pTsk7fO9AFUMPZeAjf0l9RzC0sVQWjjJ0tjCBEEG4uKkTqz5B2KYmR45yKdkG19I1flOmwa4pjvbP9gsGJ+GHWbu1jM4sLKOvz8C0opgs0Glza0H2AeSR7RCYE+JcqnilEnztVvv3SHucZoG5jHWQTveJ21mQfmkOfxZKUOPahasNs5vimtSXneGmzLxseBSSSMofb9+quUj9BfouWuxv/cd5UUyI94uCgCMsr8iOOcYvO3OPj3BbEZ0M5QnDcdlPTNB9BBCbiG5KXMdbdIMk4YZOr6zvZoKy4J/CgU2tvzTsMbq0v530KZ+GYsNi9Y5PoxrmEWMGaUsnteE9BvT+FG+OYUrtCj+lV5Y+HQkcTEGVk='
     password: '{cipher}AQBAOK9ulQlUp6AtWP331pTsk7fO9AFUMPZeAjf0l9RzC0sVQWjjJ0tjCBEEG4uKkTqz5B2KYmR45yKdkG19I1flOmwa4pjvbP9gsGJ+GHWbu1jM4sLKOvz8C0opgs0Glza0H2AeSR7RCYE+JcqnilEnztVvv3SHucZoG5jHWQTveJ21mQfmkOfxZKUOPahasNs5vimtSXneGmzLxseBSSSMofb9+quUj9BfouWuxv/cd5UUyI94uCgCMsr8iOOcYvO3OPj3BbEZ0M5QnDcdlPTNB9BBCbiG5KXMdbdIMk4YZOr6zvZoKy4J/CgU2tvzTsMbq0v530KZ+GYsNi9Y5PoxrmEWMGaUsnteE9BvT+FG+OYUrtCj+lV5Y+HQkcTEGVk='
     
-spring:
-  datasource:
-    driver-class-name: org.mariadb.jdbc.Driver
-    url: jdbc:mariadb://user-service-mariadb:3306/mydb
-    username: root
-    password: '{cipher}AQBibGb2+cmzRCKJOk+J3QlC5VKUrXoKeKBiSYbL/t5CeVURNcVB2s4nC9gkDEgPYHQByEVaI8Brr8S6dnc2/DFfsmcJIc+MqDAYQmPnHSTwAvBly1wKHfWpKPXr+Cd+tG/FxSKGqb0Fj71YK8sWJYQGcP00Jn8dRbKs7QinAjNfJdXWoTlU/1OXti5XH9JhwYq8aSEY2VwcbsZlLOSneorjGl5xcpAG53ZiJ3VmnSD2ndeMjnCyhiVdoKoUIr6jilgPMz2MuErEmuuUl5VKaHY3PC79j6N96/VWMheZ9fIYNQf7x8WYObtA491nuvCcSF3+HzyO47vXfujYuxwRsHJYNeyvLOKIfxJViqgeiI27s0s93sZgZGXCBQcItQI9TCQ='
+# spring:
+#   datasource:
+#     driver-class-name: org.mariadb.jdbc.Driver
+#     url: jdbc:mariadb://user-service-mariadb:3306/mydb
+#     username: root
+#     password: '{cipher}AQBibGb2+cmzRCKJOk+J3QlC5VKUrXoKeKBiSYbL/t5CeVURNcVB2s4nC9gkDEgPYHQByEVaI8Brr8S6dnc2/DFfsmcJIc+MqDAYQmPnHSTwAvBly1wKHfWpKPXr+Cd+tG/FxSKGqb0Fj71YK8sWJYQGcP00Jn8dRbKs7QinAjNfJdXWoTlU/1OXti5XH9JhwYq8aSEY2VwcbsZlLOSneorjGl5xcpAG53ZiJ3VmnSD2ndeMjnCyhiVdoKoUIr6jilgPMz2MuErEmuuUl5VKaHY3PC79j6N96/VWMheZ9fIYNQf7x8WYObtA491nuvCcSF3+HzyO47vXfujYuxwRsHJYNeyvLOKIfxJViqgeiI27s0s93sZgZGXCBQcItQI9TCQ='
