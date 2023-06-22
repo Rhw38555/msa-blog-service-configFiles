@@ -6,3 +6,7 @@ spring:
     mongodb:
       username: '{cipher}AQCfXjlZyGo33zkIBFv7wMkW11kKbkVPay4SNzxNL/Or2IKCoRWfYmhLAm+5niSF5qv9cPE3bzEXEiM4vzy3Wn1bKSTzLUdZN2Ut2DdIqncQjKyMO017TiJobmKCHdzmvrk8uA1c51sdwK0b7sYQ6pkrd3IhKsF3ehKuKCnzQAf5qD2YrCA/cWKjU7Vl8d4tZU1gfBe4Ez10cySZBBcbZ61/i4pNR9ZPKog46uerVnlV8Ahlgqcx96UE6OlaKz8K9vYXdiMxCTkO5xlGBduA75KvxCRWKbgdUAg6SMzR1rebMXqyFx2OaXnkCGTJgrlsZ25lGEbURBO8S7HsWUzg+i4K9+e+XZOKhynj3v/6wLzpEpgfoYFwYPejt65CtwhhMqc='
       password: '{cipher}AQCfXjlZyGo33zkIBFv7wMkW11kKbkVPay4SNzxNL/Or2IKCoRWfYmhLAm+5niSF5qv9cPE3bzEXEiM4vzy3Wn1bKSTzLUdZN2Ut2DdIqncQjKyMO017TiJobmKCHdzmvrk8uA1c51sdwK0b7sYQ6pkrd3IhKsF3ehKuKCnzQAf5qD2YrCA/cWKjU7Vl8d4tZU1gfBe4Ez10cySZBBcbZ61/i4pNR9ZPKog46uerVnlV8Ahlgqcx96UE6OlaKz8K9vYXdiMxCTkO5xlGBduA75KvxCRWKbgdUAg6SMzR1rebMXqyFx2OaXnkCGTJgrlsZ25lGEbURBO8S7HsWUzg+i4K9+e+XZOKhynj3v/6wLzpEpgfoYFwYPejt65CtwhhMqc='
+      host: 127.0.0.1
+      port: 27017
+      database: blog
+      authentication-database: admin
